@@ -40,5 +40,5 @@
         "check": "Roda as verificações do codigo, phan, php css e phpunit"
     },
     "license": "GPL-3.0",
-    "bin":["buscar-cursos.php"]
+    "bin": ["buscar-cursos.php"]
 }
