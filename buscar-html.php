@@ -13,5 +13,5 @@
 
     foreach($corpo as $value)
     {
-        echo exibeMensagem($value);
+        exibeMensagem($value);
     }
